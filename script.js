@@ -1,4 +1,4 @@
-document.getElementById('message').addEventListener('click',clickButton)
+document.getElementById('message').addEventListener('click',  clickButton)
 
 /* changes the display of the backgroundColor, text on screen, and makes the alert window appear with important news */
 function clickButton () {
